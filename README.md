@@ -17,8 +17,8 @@
 ```yaml
 name: Muhammad Yacin
 role: Senior Embedded Software Engineer
-location: Your Location
-experience: X+ years in Embedded Systems & ML
+location: Tunisia
+experience: 2+ years in Embedded Systems & ML
 specialization: ["Embedded AI", "IoT", "Computer Vision", "Backend Development"]
 current_focus: ["Edge Computing", "ML Deployment", "Real-time Systems"]
 open_to: ["Freelance Projects", "Collaborations", "Job Opportunities"]
@@ -210,22 +210,6 @@ open_to: ["Freelance Projects", "Collaborations", "Job Opportunities"]
 </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pycine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycine&layout=compact&langs_count=10&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pycine&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
