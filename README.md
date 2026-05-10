@@ -16,9 +16,8 @@
 
 ```yaml
 name: Muhammad Yacin
-role: Senior Embedded Software Engineer
+role:  Embedded Software Engineering Student
 location: Tunisia
-experience: 2+ years in Embedded Systems & ML
 specialization: ["Embedded AI", "IoT", "Computer Vision", "Backend Development"]
 current_focus: ["Edge Computing", "ML Deployment", "Real-time Systems"]
 open_to: ["Freelance Projects", "Collaborations", "Job Opportunities"]
