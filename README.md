@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Yassine Deoudi
-
+# 👋 Hi, I'm Muhammad Yacin
 ### Embedded Software Engineer | Embedded Linux | Edge AI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Embedded+Software+Engineer;STM32+%7C+ESP32+%7C+ARM+Cortex-M;Embedded+Linux+%7C+Yocto+%7C+Buildroot;Zephyr+%7C+FreeRTOS+%7C+RTOS;Edge+AI+%7C+Computer+Vision;Autonomous+Systems+%7C+IoT" alt="Typing SVG" />
